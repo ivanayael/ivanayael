@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **ivanayael/ivanayael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ivanayaelcurra@gmail.com or ivanayael@hotmail.com
 - 😄 Pronouns: Ivana or Ivy
 - ⚡ Fun fact: I don't know what I am doing right now...
--->
