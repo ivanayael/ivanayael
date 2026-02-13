@@ -4,16 +4,16 @@
 
 Soy una profesional con más de **12 años de experiencia en tecnología**  y una sólida base técnica combinada con liderazgo estratégico. Mi enfoque está en la optimización de procesos mediante metodologías ágiles y la implementación de soluciones de IA para el negocio.
 
-- 🔭 **Actualmente:** Liderando proyectos GDE y gestión de seguros con IA chatbots.
+- 🔭 **Actualmente:** Gestión de Proyectos de ERP orientados a migraciones completas o actualizaciones de sistemas. Terminé los proyectos GDE y gestión de seguros con IA chatbots.
 - 🎓 **Educación:** Ingeniera en Sistemas (UAI)  y Magíster en TI (UP - Cum Laude).
-- 👩‍🏫 **Docencia:** Profesora Titular en UADE, formando a futuros profesionales en Diseño Multimedia y Videojuegos.
-- 💡 **Intereses:** Automatización de KPIs, Transformación Digital y Desarrollo .NET.
+- 👩‍🏫 **Docencia:** Ex-Profesora Titular en UADE, formando a futuros profesionales en Diseño Multimedia y Videojuegos. Docente actual de Negocios :blush:
+- 💡 **Intereses:** Automatización de KPIs, OKRs, Transformación Digital, Capacitación de Personal y Desarrollo .NET.
 
 ---
 
 ### 🛠️ Tech Stack & Herramientas
-- **Gestión:** Jira, Trello, Azure DevOps, PMP, Scrum, Kanban.
-- **Data & BI:** Power BI (Advanced), Grafana, SQL, ETL.
+- **Gestión:** Jira, Trello, Azure DevOps, PMP, Scrum, Kanban, SAP ERP, Softland ERP.
+- **Data & BI:** Power BI (Advanced), SQL Server, MySQL, Grafana, SQL, ETL.
 - **Dev:** .NET Core, Web Services, APIs, JavaScript.
 - **AI Tools:** ChatGPT, Gemini, Microsoft CoPilot.
 
