@@ -1,6 +1,6 @@
 # Hola, soy Ivana Yael Currá 👋
 
-### Ingeniera en Sistemas | Senior Project Manager | Docente Universitaria / Terciaria
+### Ingeniera en Sistemas | Senior Project Manager | Docente
 
 Soy una profesional con más de **12 años de experiencia en tecnología**  y una sólida base técnica combinada con liderazgo estratégico. Mi enfoque está en la optimización de procesos mediante metodologías ágiles y la implementación de soluciones de IA para el negocio.
 
